@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Valentyn profile views](https://u8views.com/api/v1/github/profiles/6341631/views/day-week-month-total-count.svg)](https://u8views.com/github/sane88)
+
 <!--
 **sane88/sane88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
